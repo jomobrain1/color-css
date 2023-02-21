@@ -9,7 +9,8 @@ an awesome color picker that helps css and front end developers in theiYou can c
 <b> 
 The chrome extension is currently under reviewed and will be public soon
 </b>
+<br>
 
 <center>
-<img src="/images/tile.png">
+<img src="./images/tile.PNG">
 </center>
