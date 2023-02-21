@@ -11,5 +11,5 @@ The chrome extension is currently under reviewed and will be public soon
 </b>
 
 <center>
-<img src="./images/tile.png">
+<img src="/images/tile.png">
 </center>
