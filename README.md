@@ -7,9 +7,10 @@ an awesome color picker that helps css and front end developers in theiYou can c
 </p>
 
 <b> 
-The chrome extension is currently under reviewed and will be public soon
+Install the extension here <a href="https://chrome.google.com/webstore/detail/color-css/adlacpihapeklogkiembneaaaabciaio">Here</a>
 </b>
-<br> <br> <br> <br> <br> <br> 
+<br> <br> <br> 
+ 
 
 <center>
 <img src="./images/tile.PNG">
